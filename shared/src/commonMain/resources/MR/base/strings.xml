@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings">سیٹنگز</string>
+    <string name="arabic">عربی</string>
+    <string name="translation">ترجمہ</string>
+    <string name="hashiya">حاشیہ</string>
+    <string name="go_back">پیچھے جائیں</string>
+    <string name="recitation_options">تلاوت آپشنز:</string>
+    <string name="page_by_page">صفحہ بہ صفحہ</string>
+    <string name="para_by_para">پارہ بہ پارہ</string>
+    <string name="surah_by_surah">سورہ بہ سورہ</string>
+    <string name="quran_kareem">قرآن کریم</string>
+    <string name="my_quran">میرا قرآن</string>
+    <string name="my_quran2">میرا قرآن 2</string>
+    <string name="ayat">آیت :</string>
+    <string name="parah">پارہ :</string>
+    <string name="surah">سورہ : </string>
+    <string name="start">نقطہ آغاز</string>
+    <string name="information">معلومات</string>
+    <string name="makki">مکی</string>
+    <string name="maddni">مدنی</string>
+    <string name="rakooaat">رکوعات : </string>
+    <string name="ayaat">آیات : </string>
+    <string name="cancel">منسوخ</string>
+    <string name="select_aayat">مطلوبہ آیت کا انتخاب کریں</string>
+    <string name="bismillah">بِسۡمِ اللّٰہِ</string>
+    <string name="search">تلاش کریں</string>
+    <string name="text_copied">تحریر کاپی ہوچکی ہے</string>
+    <string name="found_in_ayaat">آیات میں آیا ہے</string>
+    <string name="not_found_in_ayaat">کسی آیت میں نہیں ملا</string>
+    <string name="number">نمبر شمار</string>
+    <string name="share">شئیر کیجئیے</string>
+    <string name="select_all">سب آیات کو منتخب کریں</string>
+</resources>
