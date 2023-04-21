@@ -34,6 +34,10 @@ kotlin {
                 api(compose.material)
                 implementation("com.rickclephas.kmm:kmm-viewmodel-core:1.0.0-ALPHA-4")
                 implementation("dev.icerock.moko:resources:0.20.1")
+                // required to fix Could not find "TestKMP/shared/build/kotlinTransformedMetadataLibraries/commonMain/org.jetbrains.kotlinx-atomicfu-0.17.3-nativeInterop-8G5yng.klib"
+                // project have versions conflict - compose require 0.17.2, but kmm-viewmodel use 0.17.3
+                // we should specify version that will use
+                implementation("org.jetbrains.kotlinx:atomicfu:0.17.3")
             }
         }
         val commonTest by getting {
